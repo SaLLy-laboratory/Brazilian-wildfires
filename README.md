@@ -1,4 +1,4 @@
-# Spatio-temporal modelling of the Brazilian wildfires: Codes and Datasets
+# Spatio-temporal modelling of the Brazilian fire spots: Codes and Datasets
 
 Directory created to share the main files and the codes used in the construction of the data tables of the article "SBayesian spatio-temporal modeling of the Brazilian wildfire hotspots: The influence of human and meteorological variables" of the journal "Scientific Reports".
 
