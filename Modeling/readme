@@ -1,6 +1,6 @@
-To run each of the six models, follow these instructions:
+# To run each of the six models, follow these instructions:
 
-1) Download the following files:
+## 1) Download the following files:
 - Code_Modeling.R
 - Data_Amazonia.txt
 - Data_Caatinga.txt
@@ -15,8 +15,8 @@ To run each of the six models, follow these instructions:
 - W_Pampas.csv
 - W_Pantanal.csv
 
-2) Unzip "Data_Mata_Atlantica.zip".
+## 2) Unzip "Data_Mata_Atlantica.zip".
 
-3) Open the file "Code_Modeling.R" and edit lines 2 and 12 of the R code.
+## 3) Open the file "Code_Modeling.R" and edit lines 2 and 12 of the R code.
 
-4) Run each of the nine parts of the R code.
+## 4) Run each of the nine parts of the R code.
